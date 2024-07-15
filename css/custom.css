@@ -124,10 +124,6 @@ hr {
 	text-align: left;
 }
 
-.col-md {
-	background-color: aqua;
-}
-
 @media screen and (min-width: 992px) {
 	#under .row {
 		margin: 0 80px;
@@ -138,7 +134,7 @@ hr {
 
 }
 @media screen and (max-width: 768px) {
-	/* 959px以下に適用されるCSS（タブレット用） */
+	/* 959px莉･荳九↓驕ｩ逕ｨ縺輔ｌ繧気SS�医ち繝悶Ξ繝�ヨ逕ｨ�� */
 
 	#row1 {
 		display: flex;
